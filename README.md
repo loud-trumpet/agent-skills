@@ -25,17 +25,61 @@ The rule that does the most work is in `write-blog-post`:
 > **Never fill a gap with a plausible invention.** If an answer does not arrive,
 > the section does not get written.
 
-## Using them
+## Installing them
 
 These are [Claude Code skills](https://docs.claude.com/en/docs/claude-code/skills).
-Each directory holds a `SKILL.md` with frontmatter describing when it applies.
-Drop a directory into `.claude/skills/` in your own project and it becomes
-available there.
+A skill is a directory holding a `SKILL.md`, whose frontmatter says when it
+applies. Copy the directories you want into either place:
 
-They are written for one blog and refer to its conventions throughout, so they
-are more likely to be worth reading than running. The parts that generalize are
-the interview, the evidence rules and the review checklist. The parts that do
-not are every path and frontmatter field.
+```bash
+# available in one project
+mkdir -p .claude/skills
+cp -R write-blog-post review-draft address-notes .claude/skills/
+
+# available everywhere
+cp -R write-blog-post review-draft address-notes ~/.claude/skills/
+```
+
+Start a new session afterward. Run `/write-blog-post` to invoke one by name, or
+describe the task and let the model match the description itself.
+
+## How they fit together
+
+They are three stages of one workflow, and they are meant to run in order.
+
+1. **`write-blog-post`** is the entry point. It interviews you before it drafts
+   anything, one question at a time, and refuses to invent an example when an
+   answer does not arrive. Most of the work happens here.
+2. **`address-notes`** is for the review round. Read the draft, leave notes
+   inline in square brackets wherever something is wrong, then run this. It
+   finds them, sorts the ones that change a fact from the ones that change
+   wording, and tells you which it disagreed with.
+3. **`review-draft`** runs last, before anything is published. It audits for
+   overclaiming, internal contradictions, caveats bolted onto the claims they
+   contradict, and comparisons rigged in their own favor.
+
+`write-blog-post` tells the model to run `review-draft` at the end, and
+`address-notes` defers to `write-blog-post` on evidence rules. Taking only one
+of the three works, but the handoffs will refer to something you do not have.
+
+## Adapting them
+
+They were written for one blog and name its conventions throughout. Read them
+before you run them, and expect to change:
+
+- **Paths.** `posts/`, `images/`, `social/` and `_ideas/series/` are this repo's
+  layout, and they appear in all three skills.
+- **Frontmatter.** The field list in `write-blog-post` is what this site's
+  publisher accepts, including an `audience` field that never reaches the site.
+- **The voice.** The voice section describes how one person writes, down to the
+  rule against em dashes and the ban on specific words. Replacing it with a
+  description of your own writing is most of the work of making these yours.
+- **Publishing.** The last section of `write-blog-post` refers to commands that
+  exist only in the blog repo.
+
+What survives the adaptation is the shape: interview before drafting, label
+which claims are lived and which are conviction, state the limits before a
+reader can raise them, and never fill a gap with something plausible.
 
 ## License
 
