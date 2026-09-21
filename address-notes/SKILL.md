@@ -17,7 +17,7 @@ grep -n '\[' <file>
 
 Then discard the false positives by eye. Two kinds exist:
 
-- **Markdown links**, `[Post 1](/compose-dont-create/)`. Bracketed text
+- **Markdown links**, `[the design system post](/compose-dont-create/)`. Bracketed text
   immediately followed by `(` is a link, not a note.
 - **Code inside fences**, array syntax and the like.
 

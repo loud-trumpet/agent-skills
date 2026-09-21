@@ -45,7 +45,7 @@ these specifically:
 
 Read the piece as a hostile reader with a good memory.
 
-Real example: post 1 argued that anything encoding company-specific commitments
+Real example: a draft argued that anything encoding company-specific commitments
 shouldn't be a shared block, eleven paragraphs after praising a date picker
 wrapper that encoded exactly that. Both sentences were fine alone.
 
@@ -87,7 +87,7 @@ the same thing. Diff them item by item. Anything the good version omits must be
 something a reader would agree is genuinely handled elsewhere, and where that
 isn't obvious, the text should say so.
 
-The first version of post 1's spec comparison was unfair in its own favor by
+One post's before-and-after spec comparison was unfair in its own favor by
 accident: the long version was underspecified, which made the short one look
 better than it was. Filling both out made the contrast stronger, not weaker.
 

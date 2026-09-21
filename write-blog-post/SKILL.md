@@ -80,7 +80,7 @@ Ryan's voice is plain, concrete, and unhedged. It earns authority by being
 specific and by admitting what it can't prove, never by sounding confident.
 
 **Open on a scene, not a thesis.** The strongest opening is a specific failure
-with a number attached. Post 1 opens "For about a month, one of our buttons had
+with a number attached. One post opens "For about a month, one of our buttons had
 white text on a white background." No setup, no framing, no "in this post I'll
 argue". The argument arrives after the reader is already in it.
 
@@ -96,9 +96,9 @@ is. "Most of the advice I run into is about the first one" is better than
 defensible.
 
 **Concede before the reader objects.** Name the counterargument yourself, in its
-strongest form, then answer it. Post 1 lists the four ways a model can still be
-wrong even with blocks, and that concession is what makes the surrounding claim
-credible.
+strongest form, then answer it. A post arguing that shared building blocks keep
+a model from going wrong lists the four ways it can go wrong anyway, and that
+concession is what makes the surrounding claim credible.
 
 **Close by returning to the opening.** The last paragraph should make the first
 one mean something it didn't mean at the time.
@@ -123,9 +123,10 @@ comparison was rigged. Audit them line by line before publishing.
 This is the series' whole credibility strategy. Hold it.
 
 - Label what is **lived** and what is **conviction**, explicitly, in the text.
-- State limits before a reader can raise them. Post 1 says "two weeks says
-  nothing about what that library costs to maintain" in Ryan's own voice, which
-  is what makes the numbers above it believable.
+- State limits before a reader can raise them. A post reporting what two weeks
+  of work produced says "two weeks says nothing about what that library costs to
+  maintain" in Ryan's own voice, which is what makes the numbers above it
+  believable.
 - Ground claims about other teams or the industry in personal observation: "in
   the codebases I've worked in", not "teams tend to".
 - Never state a product convention as a fact about the world. "We'd standardized
