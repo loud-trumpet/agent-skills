@@ -1,5 +1,5 @@
 ---
-name: review-draft
+name: blog-review-draft
 description: Audit a Loud Trumpet draft before publishing, for overclaiming, style violations, internal contradictions and rigged examples. Use before any post goes live, or when asked to review writing.
 ---
 

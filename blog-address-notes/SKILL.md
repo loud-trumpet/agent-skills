@@ -1,5 +1,5 @@
 ---
-name: address-notes
+name: blog-address-notes
 description: Find and act on Ryan's inline notes in a draft, left in square brackets in the file. Use when he says he has left comments, notes, questions or feedback in a post, or asks for those to be reviewed or addressed.
 ---
 
@@ -72,7 +72,7 @@ silent compliance. Answer it, then say what you did.
 
 Use exactly what he gave, and nothing more. If the note says three pages, the
 post says three pages: not "several", not "a handful", and not a second invented
-number somewhere else to match. The evidence discipline in `write-blog-post`
+number somewhere else to match. The evidence discipline in `blog-write-post`
 applies to every sentence a note touches.
 
 If a note reveals that something in the post was invented rather than reported,

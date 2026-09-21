@@ -1,5 +1,5 @@
 ---
-name: write-blog-post
+name: blog-write-post
 description: Draft or revise a post for the Loud Trumpet blog in Ryan's voice, with the repo's file, image and SEO conventions. Use for any post, standalone or part of a series.
 ---
 
@@ -131,7 +131,7 @@ This is the series' whole credibility strategy. Hold it.
   the codebases I've worked in", not "teams tend to".
 - Never state a product convention as a fact about the world. "We'd standardized
   on MM/DD/YYYY", not "there was exactly one correct date format".
-- Never convert a reduction in risk into a guarantee. See the `review-draft`
+- Never convert a reduction in risk into a guarantee. See the `blog-review-draft`
   skill; this is the failure mode that recurs most.
 
 ## Style rules, non-negotiable
@@ -230,7 +230,7 @@ That is the exception, not the habit. `og:title` has no equivalent and follows
 
 ## Before handing a draft over
 
-Run the `review-draft` skill against it. At minimum: no em dashes, no curly
+Run the `blog-review-draft` skill against it. At minimum: no em dashes, no curly
 quotes, no unqualified claims, and the before/after examples describe the same
 thing.
 
