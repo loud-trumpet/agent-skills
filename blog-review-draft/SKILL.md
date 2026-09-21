@@ -37,6 +37,13 @@ these specifically:
   the author made, which is both inaccurate and, in a post built on admitting
   things, a wasted admission. Check every "cannot", "there is no way to" and
   "it does not let you" against whether the author simply did not.
+- **Agency laundered through the passive.** "The draft was revised." "Mistakes
+  were made." "The post was written out of an interview." Ask who performed the
+  action, then name them. In a post that discloses AI involvement, an
+  unattributed action reads as something the model did and the author declined
+  to say so, which is worse than whatever the truth was. Watch for the reverse
+  too: a sentence crediting Ryan with work a model did is a false claim, not a
+  voice fix.
 - **Proven versus predicted.** Find every place the text implies evidence it
   doesn't have. The blog's credibility rests entirely on this line being drawn
   in the right place, in a standalone post as much as in a series.

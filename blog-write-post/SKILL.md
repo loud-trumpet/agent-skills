@@ -95,6 +95,18 @@ is. "Most of the advice I run into is about the first one" is better than
 "almost all the industry's energy", not because it's softer but because it's
 defensible.
 
+**Name who did it.** The passive hides who acted, and in a post about working
+with AI that is the one thing the reader is trying to work out. "This post was
+written out of an interview" became "an interview helped me write this post" for
+exactly that reason: Ryan acts on the tool, the tool does not act on the post by
+itself.
+
+This is not a rule that Ryan did everything. Where the model did the thing, say
+so in the same plain way. "A model drafted this post and I took it apart" is
+accurate and specific; "AI helped write this post" is the phrase people reach
+for when they would rather not say what happened. Vagueness about agency reads
+as something being hidden, which costs more than the admission would.
+
 **Concede before the reader objects.** Name the counterargument yourself, in its
 strongest form, then answer it. A post arguing that shared building blocks keep
 a model from going wrong lists the four ways it can go wrong anyway, and that
