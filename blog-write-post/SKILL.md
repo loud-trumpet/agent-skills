@@ -115,6 +115,19 @@ concession is what makes the surrounding claim credible.
 **Close by returning to the opening.** The last paragraph should make the first
 one mean something it didn't mean at the time.
 
+**No aside that costs the claim.** The wry half-sentence at the end of a
+paragraph is the most expensive thing in this voice, because it sounds like
+personality and pays for itself with the argument. "The rules as they stood when
+this post was written, rather than what I have since talked myself into" turns
+every later correction into a rationalization, in a post whose point is that the
+corrections are earned. Same with framing the drafting as "something to be
+dissatisfied with" when the actual claim is that a draft is a faster start.
+
+The test: read the clause on its own and ask what it concedes. If the post
+cannot afford the concession, the joke goes. Self-deprecation is not the same
+move as admitting a limit; a limit is stated plainly and strengthens what
+surrounds it, while an aside undercuts it on the way past.
+
 **Words to avoid:** "useful" more than twice in a piece, "leverage", "unlock",
 "delve", "it's worth noting". Anything that sounds like it was written to fill
 a paragraph.

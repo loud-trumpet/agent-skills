@@ -87,6 +87,12 @@ Flag any paragraph opening with a concessive move and check what it is conceding
 against. If the answer is "the previous paragraph", that previous paragraph is
 the thing to rewrite.
 
+The miniature version of this is an aside, usually the last clause of a
+sentence, that concedes something the post cannot afford while sounding like
+voice. "Rather than what I have since talked myself into" recast every rule the
+author had written as a rationalization. Read each of these on its own, ask what
+it gives away, and cut the ones that are paying in argument for a joke.
+
 ## 4. Rigged comparisons
 
 When a draft contrasts a bad approach with a good one, both sides must describe
@@ -158,6 +164,11 @@ before it.** A correction that fixes the sentence and contradicts its neighbors
 is the single most repeated error in this repo's history. One sentence about a
 transcript took three passes precisely because each fix was checked on its own
 and never against the example three sentences above it.
+
+Read the changed sentence whole as well, not just the part that was edited. A
+rewrite that repairs the problem and leaves two "so"s, or the same verb twice,
+is a new defect delivered by the fix. Most of these are invisible while editing
+a fragment and obvious the moment the sentence is read start to finish.
 
 ## Reporting
 

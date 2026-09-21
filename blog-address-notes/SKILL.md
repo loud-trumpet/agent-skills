@@ -93,6 +93,10 @@ sentence in a recent post needed three passes for exactly this reason: each
 rewrite was correct on its own and fought with an example three sentences above
 it that nobody re-read.
 
+Read the whole sentence back, not only the words the note touched. A fix that
+resolves the note and leaves a doubled conjunction or a repeated verb has traded
+one defect for another, and it will come back as a second note.
+
 ## After applying
 
 - Re-run the search. No brackets should survive except real markdown links.
